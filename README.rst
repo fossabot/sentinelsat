@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvalgur%2Fsentinelsat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvalgur%2Fsentinelsat?ref=badge_shield)
+
 sentinelsat
 ===========
 
@@ -221,3 +223,7 @@ License
 =======
 
 GPLv3+
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvalgur%2Fsentinelsat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvalgur%2Fsentinelsat?ref=badge_large)
